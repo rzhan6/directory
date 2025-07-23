@@ -4,6 +4,25 @@ saf.usuaris@uab.cat
 
 Solicitud de la baja del abono 
 
+
+--------------------------AI CORRECTED VERSION --------------------------------
+
+Hola, equipo SAF:
+
+Por la presente, solicito la baja del SAF. Mis datos son los siguientes: 
+
+Nombre y apellidos: RONGRONG ZHANG ZHANG 
+Número de socio (TU/Núm. usuari/a): 160201
+NIE/DNI: X9135927M
+
+Quedo a la espera de vuestra confirmación. Muchas gracias de antemano.
+
+Un saludo, 
+Rongrong Zhang
+
+
+-------------------------PERSONAL VERSION -------------------------------------
+
 Hola equipo SAF,
 
 Solicito la baja de la suscription del activides del SAF. 
@@ -17,7 +36,7 @@ Rongrong zhang
 
 
 
-
+-------------------------------INFORMATION--------------------------------------------------------------------
 info:
 Se recomienda realizar la solicitud por mail
 ¿Cómo darse de baja?
